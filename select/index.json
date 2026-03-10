@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホントノ",
+  "base_artist": "原口沙輔",
+  "createdAt": "2026-03-10T06:56:36.330767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホントノ",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_ホントノ_原口沙輔.txt"
+    }
+  ]
+}
